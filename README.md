@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Jakub, currently studying computer engineering at University. 
 
 ![My Skills](https://skillicons.dev/icons?i=py,java,c,sqlite,dart,flutter,godot)   
 
